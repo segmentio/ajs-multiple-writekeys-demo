@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@segment/analytics.js-core": "^3.9.0",
+    "@segment/analytics.js-core": "^3.13.9",
     "@segment/analytics.js-integration-segmentio": "^4.1.1",
     "axios": "^0.19.0",
     "react": "^16.8.6",
